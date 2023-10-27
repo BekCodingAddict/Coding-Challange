@@ -12,10 +12,12 @@
 
 function addition(a,b){
 
-    return a+b;
+
 }
 
 
+
+//Don't touch this code!!!
 addition(3,2)===5?console.log("addition(3,2)=> Passed!"):console.log('addition(3,2)=> Failed!');
 addition(-3,-6)===-9?console.log("addition(-3,-6)=> Passed!"):console.log('addition(-3,-6)=> Failed!');
 addition(2.3,3.7)===6?console.log("addition(2.3,3.7)=> Passed!"):console.log('addition(2.3,3.7)=> Failed!');

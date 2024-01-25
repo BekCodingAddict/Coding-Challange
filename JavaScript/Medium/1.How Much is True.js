@@ -8,15 +8,7 @@
 // All array items are of the type bool (true or false).
 
 function countTrue(arr){
-    //Solution 1
-    // let countTrue=0;
-    // arr.map(index=>{
-    //     index===true? countTrue++:countTrue+=0;
-    // })
-    // return countTrue;
-
-    // Solution 2
-    return arr.filter(i=>i===true).length;
+    
 }
 
 

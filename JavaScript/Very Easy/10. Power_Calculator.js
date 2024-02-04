@@ -6,7 +6,6 @@
 
 function circuitPower(voltage,current){
     
-    
 }
 
 

@@ -8,10 +8,12 @@
 // All array items are of the type bool (true or false).
 
 function countTrue(arr){
-    
+
 }
 
+//If you solve the problem result will be print on you terminal
 
+// Don't touch this code!!!
 countTrue([true, false, false, true, false])===2? console.log('Test Passed : Value==',countTrue([true, false, false, true, false])):
 console.log('Test Failed : Value==',countTrue([true, false, false, true, false]));
 countTrue([false, false, false, false])===0? console.log('Test Passed : Value==',countTrue([false, false, false, false])):
